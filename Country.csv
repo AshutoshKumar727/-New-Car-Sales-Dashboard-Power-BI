@@ -1,0 +1,30 @@
+﻿Continent,Country,ShortName,Model
+Africa,South Africa,ZA,X3
+Asia,China,CN,7 Series
+Asia,India,IN,3 Series
+Asia,Japan,JP,X5
+Asia,Singapore,SG,5 Series
+Asia,South Korea,KR,Highlander
+Asia,UAE,AE,Prius
+Europe,France,FR,RAV4
+Europe,Germany,DE,Camry
+Europe,Italy,IT,Corolla
+Europe,Netherlands,NL,X3
+Europe,Spain,ES,7 Series
+Europe,Sweden,SE,3 Series
+Europe,UK,GB,X5
+Europe/Asia,Russia,RU,5 Series
+North America,Canada,CA,Highlander
+North America,Mexico,MX,Prius
+North America,USA,US,RAV4
+Oceania,Australia,AU,Camry
+Europe,Norway,NO,Corolla
+Europe,Switzerland,CH,X3
+South America,Argentina,AR,7 Series
+Oceania,New Zealand,NZ,3 Series
+Europe/Asia,Turkey,TR,X5
+Asia,Saudi Arabia,SA,5 Series
+Africa,Egypt,EG,Highlander
+Asia,Thailand,TH,Prius
+Asia,Vietnam,VN,RAV4
+Asia,Indonesia,ID,Camry
