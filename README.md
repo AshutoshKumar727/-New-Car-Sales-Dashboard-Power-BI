@@ -1,6 +1,6 @@
 # New-Car-Sales-Dashboard-Power-BI
 
-Download FIle Linke 
+Download FIle Link
 https://drive.google.com/file/d/1jzsBhhoe3TTkc7w5XOWW1TxENTOljq9y/view?usp=drive_link
 
 # 🚗 Car Sales Dashboard – Power BI
@@ -59,7 +59,7 @@ https://github.com/AshutoshKumar727/-New-Car-Sales-Dashboard-Power-BI/blob/5eddc
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
-2. Download FIle Linke 
+2. Download FIle Link 
 https://drive.google.com/file/d/1jzsBhhoe3TTkc7w5XOWW1TxENTOljq9y/view?usp=drive_link
 
 3. Open it in **Power BI Desktop**.
@@ -74,7 +74,7 @@ https://drive.google.com/file/d/1jzsBhhoe3TTkc7w5XOWW1TxENTOljq9y/view?usp=drive
 ## 📌 Author
 👤 **Ashutosh Kumar**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ashutosh-singh86/)  
-📧 your.ashutosh9631837387@gmail.com
+📧 ashutosh9631837387@gmail.com
 
 ---
 #PowerBI #DataVisualization #CarSales #BusinessIntelligence #Dashboard #DataAnalytics
