@@ -52,7 +52,9 @@ The dataset used contains sales transactions from **2018–2024** across multipl
 ![Dashboard Page 1](https://github.com/AshutoshKumar727/-New-Car-Sales-Dashboard-Power-BI/blob/5eddc0052326d613464558c408afc100ad04dd82/Image%201.png)
 
 ### **Customer & Model Insights**
-![Dashboard Page 2] (https://github.com/AshutoshKumar727/-New-Car-Sales-Dashboard-Power-BI/blob/5eddc0052326d613464558c408afc100ad04dd82/Image.png)
+![Dashboard Page 1](
+https://github.com/AshutoshKumar727/-New-Car-Sales-Dashboard-Power-BI/blob/5eddc0052326d613464558c408afc100ad04dd82/Image.png)
+
 ---
 
 ## 🚀 How to Use
